@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harapriya Sahu</h1>
 
-<img align="center" src="[https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg](https://miro.medium.com/max/1140/0*ESgPAXXPnz9C76bH.png)"/>
+<img align="center" src="https://kingslanduniversity.com/wp-content/uploads/2021/02/Full-Stack-Developers.jpg"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harapriyasahu&label=Profile%20views&color=0e75b6&style=flat" alt="harapriyasahu" /> </p>
 
