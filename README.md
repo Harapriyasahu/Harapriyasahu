@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harapriya Sahu</h1>
 <p align="center">Aspiring Full Stack Web Developer</P>
 
+<img align="center" src="https://kingslanduniversity.com/wp-content/uploads/2021/02/Full-Stack-Developers.jpg"/>
+
 <h2 align="left">About Me</h2>
 
-<ul>
+<ul align="left">
   <li>Hello, welcome to my profile</li>
   <li>I'm currently looking for an opportunity as a Full Stack Web Developer</li>
   <li>I'm interested in problem solving and data analytics and manipulation</li>
@@ -11,11 +13,8 @@
   <li>I love Reading Blogs, Cooking and Travelling</li>
 </ul>
 
-<img align="center" height="300px" width="500px" src="https://kingslanduniversity.com/wp-content/uploads/2021/02/Full-Stack-Developers.jpg"/>
-
-
-
-- <p align="center">📫 How to reach me **harapriyasahu505@gmail.com**</p>
+- <p align="left">How to reach me --> drop me a mail at <a href="harapriyasahu505@gmail.com"></a></p>
+- <p>my Linked In--> <a href="https://www.linkedin.com/in/harapriya-sahu/"></a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
