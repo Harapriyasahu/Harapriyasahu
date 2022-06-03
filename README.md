@@ -11,10 +11,11 @@
   <li>I'm interested in problem solving and data analytics and manipulation</li>
   <li>I'm a passionate software developer</li>
   <li>I love Reading Blogs, Cooking and Travelling</li>
+  <li>How to reach me --> drop me a mail at " harapriyasahu505@gmail.com "</li>
+  <li>my Linked In--> " https://www.linkedin.com/in/harapriya-sahu/ "</li>
+  <li></li>
 </ul>
 
-- <p align="left">How to reach me --> drop me a mail at <a href="harapriyasahu505@gmail.com"></a></p>
-- <p>my Linked In--> <a href="https://www.linkedin.com/in/harapriya-sahu/"></a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
