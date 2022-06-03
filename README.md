@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harapriya Sahu</h1>
 
-<img align="center" height:"200px" width:"200px" src="https://kingslanduniversity.com/wp-content/uploads/2021/02/Full-Stack-Developers.jpg"/>
+<img align="center" height="200px" width="200px" src="https://kingslanduniversity.com/wp-content/uploads/2021/02/Full-Stack-Developers.jpg"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harapriyasahu&label=Profile%20views&color=0e75b6&style=flat" alt="harapriyasahu" /> </p>
 
