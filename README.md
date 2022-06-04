@@ -12,7 +12,7 @@
   <li>I'm a passionate software developer</li>
   <li>I love Reading Blogs, Cooking and Travelling</li>
   <li>How to reach me --> drop me a mail at " harapriyasahu505@gmail.com "</li>
-  <li>my Linked In--> " https://www.linkedin.com/in/harapriya-sahu/ "</li>
+  <li>My Medium link--> "https://medium.com/me/stories/public"</li>
   <li></li>
 </ul>
 
