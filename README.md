@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harapriya Sahu</h1>
 <p align="center">Aspiring Full Stack Web Developer</P>
 
-<img align="center" src="https://kingslanduniversity.com/wp-content/uploads/2021/02/Full-Stack-Developers.jpg"/>
+<img align="center" src="https://uploads.toptal.io/blog/image/92510/toptal-blog-image-1463492564587-353a3c288892f1e43929cee358dbc24f.gif"/>
 
 <h2 align="left">About Me</h2>
 
