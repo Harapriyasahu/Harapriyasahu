@@ -6,11 +6,11 @@
 <h2 align="left">About Me</h2>
 
 <ul align="left">
-  <li>Hello, welcome to my profile</li>
-  <li>I'm currently looking for an opportunity as a Full Stack Web Developer</li>
-  <li>I'm interested in problem solving and data analytics and manipulation</li>
-  <li>I'm a passionate software developer</li>
-  <li>I love Reading Blogs, Cooking and Travelling</li>
+  <li>Hello, welcome to my profile.</li>
+  <li>I'm currently looking for an opportunity as a Full Stack Web Developer.</li>
+  <li>I'm interested in problem solving and data analytics and manipulation.</li>
+  <li>I'm a passionate software developer.</li>
+  <li>I love reading Blogs, Cooking and Travelling.</li>
   <li>How to reach me --> drop me a mail at " harapriyasahu505@gmail.com "</li>
   <li>My Medium link--> "https://medium.com/me/stories/public"</li>
   <li></li>
@@ -39,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harapriyasahu&show_icons=true&locale=en" alt="harapriyasahu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harapriyasahu&" alt="harapriyasahu" /></p>
+
+[![Harapriya's github activity graph](https://activity-graph.herokuapp.com/graph?username=harapriyasahu&theme=react-dark)](https://github.com/sunilbrown89/github-readme-activity-graph)
+
+<h1 align="center">Thanks for visiting...</h1>
